@@ -2,6 +2,7 @@
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-fir)
 [![circle CI Badge](https://circleci.com/gh/dvlprliu/fastlane_plugin_fir.svg?style=shield&circle-token=7c03f2cae88306f4028a7b006c9353a492f02a81)](https://circleci.com/dashboard)
+[![Build Status](https://travis-ci.org/dvlprliu/fastlane_plugin_fir.svg?branch=master)](https://travis-ci.org/dvlprliu/fastlane_plugin_fir)
 ## Getting Started
 
 This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-fir`, add it to your project by running:

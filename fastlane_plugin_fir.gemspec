@@ -1,4 +1,4 @@
-# coding: utf-8
+
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'fastlane/plugin/fir/version'
@@ -6,10 +6,10 @@ require 'fastlane/plugin/fir/version'
 Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-fir'
   spec.version       = Fastlane::Fir::VERSION
-  spec.author        = %q{dvlprliu}
-  spec.email         = %q{dvlprliu@gmail.com}
+  spec.author        = 'dvlprliu'
+  spec.email         = 'dvlprliu@gmail.com'
 
-  spec.summary       = %q{=}
+  spec.summary       = '='
   # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-fir"
   spec.license       = "MIT"
 
